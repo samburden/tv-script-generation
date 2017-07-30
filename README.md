@@ -15,5 +15,4 @@ The project is implemented in a Jupyter notebook and can be run using the follow
 
 ```jupyter notebook dlnd_tv_script_generation.ipynb```
 
-<br/>
 If interested in training your model on a GPU for better performance, checkout [FloydHub](http://www.floydhub.com).
